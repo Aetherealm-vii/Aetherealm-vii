@@ -1,0 +1,15 @@
+Engelic-Ascentia/
+│
+├── README.md                   # Overview of EAAD
+├── WhitePaper.md               # Detailed description of the framework
+├── Algorithms/
+│   ├── KrystalSpiralAlgorithm.py  # Node placement algorithm
+│   ├── BlockLinkageAlgorithm.py   # Multi-layer block linkage algorithm
+│   ├── NestedSpiralVisualization.ipynb  # Visualization code
+│
+├── Applications/
+│   ├── BlockchainUseCase.md    # Blockchain applications
+│   ├── EnergyGrids.md          # Decentralized energy grid applications
+│   ├── UrbanPlanning.md        # Urban planning applications
+│
+└── LICENSE.md                  # License for usage and contribution
